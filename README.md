@@ -132,9 +132,3 @@ Detailed metrics and configuration recommendations live in `docs/model-optimizat
 
 MIT License — feel free to use any patterns or scripts that are useful to you.
 
----
-
-**Built and maintained by Brandon Chollett**  
-Software engineer focused on local AI infrastructure and autonomous agent systems.
-
----
